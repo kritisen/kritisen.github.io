@@ -2,7 +2,6 @@
 layout: post
 title:  "Google search for genomic data"
 ---
-# Google search for genomic data
 
 GA4GH (Global Alliance for Genomics and Health) http://genomicsandhealth.org/ talks about building 
 the "Google search for genomic data" using RESTful API. 

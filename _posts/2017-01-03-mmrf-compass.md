@@ -3,8 +3,6 @@ layout: post
 title:  "Multiple myeloma"
 ---
 
-# Multiple myeloma
-
 Multiple myeloma (MM) is a type of blood cancer that leads to multiple tumors in the body. Historically, MM 
 was considered an incurable disease. 
 

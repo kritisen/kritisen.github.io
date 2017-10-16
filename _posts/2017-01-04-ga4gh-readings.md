@@ -2,7 +2,6 @@
 layout: post
 title:  "Some interesting links on GA4GH"
 ---
-# Some interesting links on GA4GH
 
 - Using Bitcoin-s backend technology "blockchains" for genomics data. Evidently, GA4GH chair, David Haussler is also on board. [Link][http://www.bio-itworld.com/2016/5/4/how-blockchain-is-helping-genomics-research.aspx]
 

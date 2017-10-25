@@ -2,6 +2,8 @@
 layout: post
 title:  "Google search for genomic data"
 image: /img/hello_world.jpeg
+subtitle: Change is coming to the world of genomics
+bigimg: /img/path.jpg
 ---
 
 GA4GH (Global Alliance for Genomics and Health) http://genomicsandhealth.org/ talks about building 

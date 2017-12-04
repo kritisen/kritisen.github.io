@@ -23,8 +23,7 @@ creating notebooks that embed code and results
 - [Spark notebooks](https://zeppelin.apache.org/) (a data-scientist at amazon says this is the new thing there -- mainly because of the native spark connection)
 ...
 
-Speaking of competition in this space, there was recently some interesting twitter chatter 
-comparing different options on a thread started by Jake Van der Plas (our scidbpy 1.0 creator) 
-https://twitter.com/jakevdp/status/923936168521097216. Azure is criticized. Many other players are mentioned. 
+Speaking of competition in this space, there was recently some [interesting twitter chatter](https://twitter.com/jakevdp/status/923936168521097216) 
+comparing different options on a thread started by Jake Van der Plas (our scidbpy 1.0 creator) . Azure is criticized. Many other players are mentioned. 
 
 Interesting space to watch out for. 

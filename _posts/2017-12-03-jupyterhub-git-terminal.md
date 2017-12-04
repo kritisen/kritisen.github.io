@@ -22,10 +22,10 @@ Either way, these notebooks appear to be a standard thing these days. Many folks
 creating notebooks that embed code and results
 - [Azure](https://notebooks.azure.com/)
 - [Google](https://cloud.google.com/datalab/)
-- [Spark notebooks](https://zeppelin.apache.org/) (a data-scientist at amazon says this is the new thing there -- mainly because of the native spark connection)
+- [Spark notebooks](https://zeppelin.apache.org/) (a data-scientist at Amazon says this is the new hot thing there -- mainly because of the native spark connection)
 ...
 
 Speaking of competition in this space, there was recently some [interesting twitter chatter](https://twitter.com/jakevdp/status/923936168521097216) 
-comparing different options on a thread started by Jake Van der Plas (our scidbpy 1.0 creator) . Azure is criticized. Many other players are mentioned. 
+comparing different options on a thread started by our scidbpy 1.0 creator Jake Van der Plas . Azure is criticized. Many other players are mentioned. 
 
-Interesting space to watch out for. 
+Seems to be an interesting space to watch out for. 

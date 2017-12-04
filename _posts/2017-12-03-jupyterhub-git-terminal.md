@@ -12,17 +12,15 @@ However I am currently trying to to use it for collaboration with another data-s
 not so useful. Mainly, I miss the fact that jupyter notebooks have no meaningful diff feature. 
 Git version tracking is almost useless (versions can be maintained -- but without the diff, 
 it is near impossible to track changes). 
-Other companies (https://kyso.io/) seem to be thinking about the version tracking issue. 
+Other companies ([link](https://kyso.io/)) seem to be thinking about the version tracking issue. 
 
-Today I found that jupyterhub does allow terminal access (which is a great relief):
-https://stackoverflow.com/questions/34941546/is-there-a-way-to-integrate-git-with-jupyter-and-have-a-version-control-over-the
+Today I found that jupyterhub does [allow terminal access](https://stackoverflow.com/questions/34941546/is-there-a-way-to-integrate-git-with-jupyter-and-have-a-version-control-over-the) (which is a great relief):
 
 Either way, these notebooks appear to be a standard thing these days. Many folks are getting into the business of 
 creating notebooks that embed code and results
-- https://notebooks.azure.com/
-- https://cloud.google.com/datalab/
-- https://zeppelin.apache.org/ (my amazon colleague says this is the new thing there -- mainly because of the native spark 
-connector)
+- [Azure](https://notebooks.azure.com/)
+- [Google](https://cloud.google.com/datalab/)
+- [Spark notebooks](https://zeppelin.apache.org/) (a data-scientist at amazon says this is the new thing there -- mainly because of the native spark connection)
 ...
 
 Speaking of competition in this space, there was recently some interesting twitter chatter 

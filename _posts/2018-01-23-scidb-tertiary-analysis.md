@@ -3,7 +3,7 @@ layout: post
 title: Competitors in Tertiary Analysis Space 
 ---
 
-I found this quote quite interesting:
+I found this quote quite very interesting:
 
 From [http://ceur-ws.org/Vol-2022/paper01.pdf](http://ceur-ws.org/Vol-2022/paper01.pdf)
 

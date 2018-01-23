@@ -3,8 +3,6 @@ layout: post
 title: Competitors in Tertiary Analysis Space 
 ---
 
-**Disclaimer**: I work at Paradigm4, the maintainers of the SciDB computational array database. 
-
 I found this quote quite interesting:
 
 From [http://ceur-ws.org/Vol-2022/paper01.pdf](http://ceur-ws.org/Vol-2022/paper01.pdf)
@@ -23,11 +21,13 @@ research.
 are focused on tertiary analysis."
 
 - GMQL: 
-	- Try GMQL: http://www.bioinformatics.deib.polimi.it/geco/?try 
+	- [Try GMQL](http://www.bioinformatics.deib.polimi.it/geco/?try)
 - DeepBlue 
-	- Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987868/ 
-	- Try DeepBlue / DeepBlue uses MongoDB: http://deepblue.mpi-inf.mpg.de/dashboard.php#ajax/deepblue_acknowledgements.php 
+	- [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987868/)
+	- [Try DeepBlue](http://deepblue.mpi-inf.mpg.de/dashboard.php#ajax/deepblue_acknowledgements.php)
 - FireCloud (From Broad): 
-	- https://software.broadinstitute.org/firecloud/
+	- [website](https://software.broadinstitute.org/firecloud/)
 - SciDB (from Paradigm4):
-	- http://paradigm4.com
+	- [Paradigm4 website](http://paradigm4.com)
+
+**Disclaimer**: I work at Paradigm4, the company that maintains the SciDB computational array database. 

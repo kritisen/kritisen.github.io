@@ -23,8 +23,8 @@ load/load-helper.R:    new_features$reference_name = 'unknown'
 
 ```sh
 string_to_search=reference_name
-string_to_replace=chromosome
-sed -i 's/\<$string_to_search\>/$chromosome/g' `grep -rw -l $string_to_search *`
+REPLACE_WITH=chromosome
+sed -i 's/\<$string_to_search\>/$REPLACE_WITH/g' `grep -rw -l $string_to_search *`
 ```
 
 where

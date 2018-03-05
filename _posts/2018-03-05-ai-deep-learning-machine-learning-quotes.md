@@ -5,7 +5,9 @@ published: true
 ---
 
 I have heard different variations of the same quote so many times now -- 
-I thought I would start archiving quotes from some interesting people. 
+I thought I would start archiving quotes from some interesting people in one place (more to come).  
+
+My initial reaction: But more important than fire really?
 
 - Sundar Pichai (CEO, Google): 
 > "AI is one of the most important things humanity is working on. It is more profound than, I dunno, electricity or fire," 

@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: 2018-03-13-typical-data-science-workflow.md
+published: true
+title: A typical data science workflow
 ---
 ## Typical data-science workflow
 

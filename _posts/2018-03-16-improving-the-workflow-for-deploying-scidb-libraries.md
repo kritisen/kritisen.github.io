@@ -70,5 +70,4 @@ Add the changed files to `gh-pages` and then
 git push origin gh-pages
 ```
 
-```
-
+Eventually we should consider distributing executables with some solution like [Bintray](https://bintray.com). See for example [Rares Vernica's bintray](https://bintray.com)

@@ -61,6 +61,12 @@ cp ../lib*.so rel18.1/ubuntu14/
 
 Recreate the index
 ```sh
+# conda with python3
+conda create --name gh-pages-index-creator
+source activate gh-pages-index-creator
+conda install mako
+
+(gh-pages-index-creator) $ 
 python ~/coding/make_index.py .
 ```
 

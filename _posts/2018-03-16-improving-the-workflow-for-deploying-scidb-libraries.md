@@ -9,11 +9,11 @@ subtitle: >-
 Run SciDB 18.1 CE with shim and plugins
 
 ```sh
-docker run -it 
-           --detach 
-           -p 8080:8080 
-           -v ~/scratch:/scratch/
-           rvernica/scidb:18.1-ext /bin/bash
+docker run -it                        \
+           --detach                   \
+           -p 8080:8080               \
+           -v ~/scratch:/scratch/     \
+           rvernica/scidb:18.1-ext
 ```
 
 The above command will do the following:
@@ -31,13 +31,14 @@ docker ps
 # ee1cbc462a0d        rvernica/scidb:18.1-ext   "/docker-entrypoint.…"   ...
 
 # Attach to it
-docker exec -i -t  ee1cbc462a0d /bin/bash
+docker exec -it  <CONTAINER_ID> /bin/bash
 ```
 
 ## Local computer
 
 ```sh
 git clone https://github.com/paradigm4/accelerated_io_tools.git
+cd accelerated_io_tools
 git checkout v18.1_no_arrow
 ```
 

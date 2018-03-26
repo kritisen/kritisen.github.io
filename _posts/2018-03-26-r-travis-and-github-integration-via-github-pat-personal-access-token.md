@@ -16,12 +16,9 @@ git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git b
 
 1. First create a personal access token at [Github developer settings](https://github.com/settings/tokens)
 
-2. When you generate the token, make sure to add `repo` or `repo/public_repo` privilege (based on whether your repo is private or public)
+2. When you generate the token, make sure to add `repo` or `repo/public_repo` privilege (based on whether your repo is private or public). See more scope rules [here](https://developer.github.com/apps/building-oauth-apps/scopes-for-oauth-apps/)
 
 3. Next, the token must be set as an environment variable named `GITHUB_PAT` in Travis CI settings for your repo 
 
 - https://travis-ci.org/<organization-or-username>/<repo-name>/settings
 - or in my case, https://travis-ci.org/Paradigm4/insight-docs/settings
-
-
-

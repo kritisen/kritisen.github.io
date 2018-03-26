@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'R, Travis and Github integration via GITHUB_PAT (personal access token)'
 ---
 I started using RStudio BookDown to develop documentation for SciDB insight API.

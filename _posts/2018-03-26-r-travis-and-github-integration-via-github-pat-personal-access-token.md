@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: 'R, Travis and Github integration via GITHUB_PAT (personal access token)'
+subtitle: Automating book publishing and collaboration
 ---
 I started using RStudio BookDown to develop documentation for SciDB insight API.
 
@@ -22,3 +23,13 @@ git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git b
 
 - https://travis-ci.org/<organization-or-username>/<repo-name>/settings
 - or in my case, https://travis-ci.org/Paradigm4/insight-docs/settings
+
+# Advantages
+
+My main motivation for setting this up is that anyone can now head over to the blog website, and start editing via the **Edit** button.
+
+![Edit button](https://user-images.githubusercontent.com/13973052/37941162-c6c9e480-313a-11e8-9fb1-e5ef2e2ba5f7.png)
+
+with which anyone in the world can edit via Github, start pull requests, and all that good stuff. 
+
+![start editing](https://user-images.githubusercontent.com/13973052/37941182-e1711524-313a-11e8-99f9-1ad08b8c6b90.png)

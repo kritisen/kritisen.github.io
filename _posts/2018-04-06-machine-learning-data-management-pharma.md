@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Machine learning for data management in pharma
 subtitle: 'AI on the way in, AI on the way out'
 ---

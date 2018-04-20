@@ -4,7 +4,7 @@ published: true
 title: Caching over and above the primary storage
 subtitle: The omnipresence of caching
 ---
-People do all sorts of optimizations over their primary storage layer. AWS has built a whole product around this kind of caching mechanism (to get sub-millisecond response times) [https://aws.amazon.com/elasticache/redis/](https://aws.amazon.com/elasticache/redis/)
+People do all sorts of optimizations over their primary storage layer. AWS has built a whole product around a Redis based caching mechanism (to get sub-millisecond response times) [https://aws.amazon.com/elasticache/redis/](https://aws.amazon.com/elasticache/redis/)
 
 Their diagram below really outlines the prevalent architecture very well:
 

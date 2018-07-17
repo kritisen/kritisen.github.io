@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Software tools for genomics tertiary analysis
 ---
 **Disclaimer**: I work for Paradigm4, the creators of SciDB. The views expressed in this blog are my own.
@@ -61,4 +61,4 @@ A [beautiful cartoon explanation of GWAS](https://www.broadinstitute.org/visuals
 
 ## NOTE
 
-If images used here violate copyright terms, please [let me know](http://kritisen.com/aboutme/). 
+If images used here violate copyright terms, please [let me know](http://kritisen.com/aboutme/).

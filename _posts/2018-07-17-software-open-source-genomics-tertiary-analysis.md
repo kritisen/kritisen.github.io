@@ -24,13 +24,13 @@ Mainly, I was interested in knowing more about
 This [Cloudera blog post](http://blog.cloudera.com/blog/2016/04/genome-analysis-toolkit-now-using-apache-spark-for-data-processing/) provides a good explanation of tertiary analysis
 ![three-levels-of-analysis](http://blog.cloudera.com/wp-content/uploads/2017/04/Pipeline.png)
 
-GATK and similar tools (?) are used for primary and secondary analysis, while (according to [this Reddit post](https://www.reddit.com/r/bioinformatics/comments/5t7idb/large_scalable_variant_stores/)) the following tools are used for tertiary analysis  
+GATK and similar tools (?) are used for primary and secondary analysis, while (according to [this Reddit post](https://www.reddit.com/r/bioinformatics/comments/5t7idb/large_scalable_variant_stores/)) the following tools are used for tertiary analysis (in alphabetical order)
 
-- Hail (Broad Institute) (successor to PLINK / SEQ)
-- GenomicsDB / TileDB (Broad Institute and Intel)
-- ADAM (U.C. Berkeley)
-- SciDB (Paradigm4)
-- GQT (U. Utah)
+- [ADAM](http://bdgenomics.org/) (U.C. Berkeley)
+- [Hail](https://hail.is/) (Broad Institute) (successor to PLINK / SEQ)
+- [GenomicsDB](https://github.com/Intel-HLS/GenomicsDB) / [TileDB](https://tiledb.io/) (Broad Institute and Intel)
+- [SciDB](https://www.paradigm4.com/) (Paradigm4)
+- [GQT](https://www.nature.com/articles/nmeth.3654) (U. Utah)
 
 ### Some observations about these tools
 

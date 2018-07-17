@@ -27,10 +27,10 @@ This [Cloudera blog post](http://blog.cloudera.com/blog/2016/04/genome-analysis-
 GATK and similar tools (?) are used for primary and secondary analysis, while (according to [this Reddit post](https://www.reddit.com/r/bioinformatics/comments/5t7idb/large_scalable_variant_stores/)) the following tools are used for tertiary analysis (in alphabetical order)
 
 - [ADAM](http://bdgenomics.org/) (U.C. Berkeley)
-- [Hail](https://hail.is/) (Broad Institute) (successor to PLINK / SEQ)
 - [GenomicsDB](https://github.com/Intel-HLS/GenomicsDB) / [TileDB](https://tiledb.io/) (Broad Institute and Intel)
-- [SciDB](https://www.paradigm4.com/) (Paradigm4)
 - [GQT](https://www.nature.com/articles/nmeth.3654) (U. Utah)
+- [Hail](https://hail.is/) (Broad Institute) (successor to PLINK / SEQ)
+- [SciDB](https://www.paradigm4.com/) (Paradigm4)
 
 ### Some observations about these tools
 

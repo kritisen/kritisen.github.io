@@ -1,11 +1,9 @@
 ---
 layout: post
 published: false
-title: 2018-07-17-open-source-genomics.md
+title: Software tools for genomics tertiary analysis
 ---
-# Software tools for genomics tertiary analysis
-
-I work for Paradigm4, the creators of SciDB. The views expressed in this blog are my own.
+**Disclaimer**: I work for Paradigm4, the creators of SciDB. The views expressed in this blog are my own.
 
 At Paradigm4 / SciDB, we do a lot of work on genomics data e.g.
 - [Global biobank engine for UK Biobank data and other biobanks](https://biobankengine.stanford.edu/), 

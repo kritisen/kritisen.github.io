@@ -23,7 +23,7 @@ Mainly, I was interested in knowing more about
 
 This [Cloudera blog post](http://blog.cloudera.com/blog/2016/04/genome-analysis-toolkit-now-using-apache-spark-for-data-processing/) provides a good explanation of tertiary analysis
 
-<img src="http://blog.cloudera.com/wp-content/uploads/2017/04/Pipeline.png" alt="three-levels-of-analysis" width=300>
+<img src="http://blog.cloudera.com/wp-content/uploads/2017/04/Pipeline.png" alt="three-levels-of-analysis" width=300/>
 
 GATK and similar tools (?) are used for primary and secondary analysis, while (according to [this Reddit post](https://www.reddit.com/r/bioinformatics/comments/5t7idb/large_scalable_variant_stores/)) the following tools are used for tertiary analysis (in alphabetical order)
 
@@ -46,6 +46,7 @@ GATK and similar tools (?) are used for primary and secondary analysis, while (a
 
 1. [TCGA-assembler](http://www.compgenome.org/TCGA-Assembler/) is a set of user friendly R functions to download data from TCGA firehose at Broad. Their paper is quite popular with [158 citations since 2014](https://scholar.google.com/scholar?cites=7434599276556022939&as_sdt=40000005&sciodt=0,22&hl=en&authuser=1). 
 2. The XenaBrowser allows beautful visualizations across multiple genomic and phenotypic data types. [[Link](https://xenabrowser.net/datapages/?host=https%3A%2F%2Fpancanatlas.xenahubs.net)]. 
+
 <img href="https://xenabrowser.net/datapages/?host=https%3A%2F%2Fpancanatlas.xenahubs.net" src="https://pancanatlas.xenahubs.net/download/meta/screenshot.png" alt="xenabrowser snapshot" width=300>
 
 ## Aside

@@ -25,6 +25,8 @@ This [Cloudera blog post](http://blog.cloudera.com/blog/2016/04/genome-analysis-
 
 <img src="http://blog.cloudera.com/wp-content/uploads/2017/04/Pipeline.png" alt="three-levels-of-analysis" width=300/>
 
+![three-levels-of-analysis](http://blog.cloudera.com/wp-content/uploads/2017/04/Pipeline.png =300x)
+
 GATK and similar tools (?) are used for primary and secondary analysis, while (according to [this Reddit post](https://www.reddit.com/r/bioinformatics/comments/5t7idb/large_scalable_variant_stores/)) the following tools are used for tertiary analysis (in alphabetical order)
 
 - [ADAM](http://bdgenomics.org/) (U.C. Berkeley)

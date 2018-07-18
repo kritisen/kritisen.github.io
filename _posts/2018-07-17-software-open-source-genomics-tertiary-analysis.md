@@ -22,7 +22,8 @@ Mainly, I was interested in knowing more about
 ## Tertiary analysis tools out there
 
 This [Cloudera blog post](http://blog.cloudera.com/blog/2016/04/genome-analysis-toolkit-now-using-apache-spark-for-data-processing/) provides a good explanation of tertiary analysis
-![three-levels-of-analysis](http://blog.cloudera.com/wp-content/uploads/2017/04/Pipeline.png)
+
+<img src="http://blog.cloudera.com/wp-content/uploads/2017/04/Pipeline.png" alt="three-levels-of-analysis" width=300>
 
 GATK and similar tools (?) are used for primary and secondary analysis, while (according to [this Reddit post](https://www.reddit.com/r/bioinformatics/comments/5t7idb/large_scalable_variant_stores/)) the following tools are used for tertiary analysis (in alphabetical order)
 
@@ -45,12 +46,12 @@ GATK and similar tools (?) are used for primary and secondary analysis, while (a
 
 1. [TCGA-assembler](http://www.compgenome.org/TCGA-Assembler/) is a set of user friendly R functions to download data from TCGA firehose at Broad. Their paper is quite popular with [158 citations since 2014](https://scholar.google.com/scholar?cites=7434599276556022939&as_sdt=40000005&sciodt=0,22&hl=en&authuser=1). 
 2. The XenaBrowser allows beautful visualizations across multiple genomic and phenotypic data types. [[Link](https://xenabrowser.net/datapages/?host=https%3A%2F%2Fpancanatlas.xenahubs.net)]. 
-![xenabrowser snapshot](https://pancanatlas.xenahubs.net/download/meta/screenshot.png). 
+<img href="https://xenabrowser.net/datapages/?host=https%3A%2F%2Fpancanatlas.xenahubs.net" src="https://pancanatlas.xenahubs.net/download/meta/screenshot.png" alt="xenabrowser snapshot" width=300>
 
 ## Aside
 
 A [beautiful cartoon explanation of GWAS](https://www.broadinstitute.org/visuals/explainer-genome-wide-association-studies) from the Broad, using more images like the one below:
-![cartoon-GWAS](https://www.broadinstitute.org/files/landing_items/Explainer-close-up.jpg)
+<img href="https://www.broadinstitute.org/visuals/explainer-genome-wide-association-studies" src="https://www.broadinstitute.org/files/landing_items/Explainer-close-up.jpg" alt="cartoon-GWAS" width=200>
 
 ## Footnotes
 
@@ -61,4 +62,4 @@ A [beautiful cartoon explanation of GWAS](https://www.broadinstitute.org/visuals
 
 ## NOTE
 
-If images used here violate copyright terms, please [let me know](http://kritisen.com/aboutme/).
+I have only used thumbnails of images so that interested readers hyperlink to the original source -- if you feel I am still violating some copyright terms, please let me know in comments below, or [via other channels on my home-page](http://kritisen.com/aboutme/).

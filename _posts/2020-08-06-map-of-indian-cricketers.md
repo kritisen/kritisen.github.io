@@ -67,7 +67,7 @@ For the find graphic(s), we collected the latitude, longitude data for each birt
 
 The map also shows that there is a huge cluster in and around Delhi - almost as if the neck of India has squeezed out a huge number of cricketers. Virat Kohli (`*` ODI caps, Birthplace: Delhi) crowds out the rest of the players. For the sake of the Delhi cluster, we create a _________ in the sub-area, this time skipping the __________ by ODI caps played, and also staggering the player dots by a bit.
 
-We can then clearly distinguish the players in that cluster, `*` of whom were from Delhi, and `*` were from nearby medium or large sized cities (including the stalwart Rohit Sharma (`*` ODI caps, Birthplace : Muradnagar, UP).
+We can then clearly distinguish the players in that cluster, `*` of whom were from Delhi, and `*` were from nearby medium or large sized cities (including the stalwart Suresh Raina, `*` ODI caps, Birthplace : Muradnagar, UP).
 
 ```
 “Map to be placed here”

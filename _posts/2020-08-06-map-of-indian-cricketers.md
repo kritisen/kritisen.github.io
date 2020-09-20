@@ -4,6 +4,8 @@ published: true
 title: Do small Indian towns produce more cricketers than the cities?
 ---
 
+## NOTE: This article is currently a work in progress. This note will be removed once the post is finalized.
+
 Let's start with something very close to our hearts - Cricket.
 
 Do smaller Indian towns produce more cricketers than larger Indian cities? Where will the next batch of Indian Cricketers come from?

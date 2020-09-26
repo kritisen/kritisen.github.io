@@ -36,7 +36,7 @@ Let us start with a simple bar graph of the number of players per category.
 
 ### Cricketers Origin by city Category
 
-<iframe src='../20200806_india_players/barchart1.html' width='1000' height='750' frameborder='0'></iframe>
+<iframe src='http://kritisen.com/indian-cricketer-origins/barchart1.html' width='1000' height='750' frameborder='0'></iframe>
 
 It turns out that large cities sent only 5 of the 30 (~17%) players in the last 2 world cups and 2 champions trophies. Medium sized and small sized cities /towns contributed almost equally, with * (*%) & * (*%) players respectively.
 
@@ -47,7 +47,7 @@ Here, we just sum the population of birthplaces in each category of the list,  a
 
 Sum of Population of cricketers birthplaces by category
 
-<iframe src='../20200806_india_players/barchart2.html' width='1000' height='750' frameborder='0'></iframe>
+<iframe src='http://kritisen.com/indian-cricketer-origins/barchart2.html' width='1000' height='750' frameborder='0'></iframe>
 
 (`N` is the number of unique cricketers birthplaces in each category)
 
@@ -61,13 +61,13 @@ For the `*` medium sized cities in our list, the sum population is `*` million (
 
 For the find graphic(s), we collected the latitude, longitude data for each birthplace (Google Maps) and plotted each cricketer in our list at the location of their birthplace. Hovering over each dot gives more details. The Cricketer dots are colored by their category. To make the map more interesting, we seized the dot for each cricketer by their number of ODI’s played. This way, cricket greats like Yuvraj Singh ( `*` ODI caps, Birthplace: Chandigarh) and MS Dhoni (`*` ODI caps, Birthplace: Ranchi) show up prominently. 
 
-<iframe src='../20200806_india_players/index1.html' width='1000' height='750' frameborder='0'></iframe>
+<iframe src='http://kritisen.com/indian-cricketer-origins/index.html' width='1000' height='750' frameborder='0'></iframe>
 
 The map also shows that there is a huge cluster in and around Delhi - almost as if the neck of India has squeezed out a huge number of cricketers. Virat Kohli (`*` ODI caps, Birthplace: Delhi) crowds out the rest of the players. For the sake of the Delhi cluster, we create a _________ in the sub-area, this time skipping the __________ by ODI caps played, and also staggering the player dots by a bit.
 
 We can then clearly distinguish the players in that cluster, `*` of whom were from Delhi, and `*` were from nearby medium or large sized cities (including the stalwart Suresh Raina, `*` ODI caps, Birthplace : Muradnagar, UP).
 
-<iframe src='../20200806_india_players/index.html' width='1000' height='750' frameborder='0'></iframe>
+<iframe src='http://kritisen.com/indian-cricketer-origins/delhi.html' width='1000' height='750' frameborder='0'></iframe>
 
 ## Conclusions (if any?)
 

@@ -36,7 +36,7 @@ Let us start with a simple bar graph of the number of players per category.
 
 ### Cricketers Origin by city Category
 
-<iframe src='http://kritisen.com/indian-cricketer-origins/barchart1.html' width='1000' height='750' frameborder='0'></iframe>
+<iframe src='http://kritisen.com/indian-cricketer-origins/barchart1.html' frameborder='0'></iframe>
 
 It turns out that large cities sent only 5 of the 30 (~17%) players in the last 2 world cups and 2 champions trophies. Medium sized and small sized cities /towns contributed almost equally, with * (*%) & * (*%) players respectively.
 
@@ -47,7 +47,7 @@ Here, we just sum the population of birthplaces in each category of the list,  a
 
 Sum of Population of cricketers birthplaces by category
 
-<iframe src='http://kritisen.com/indian-cricketer-origins/barchart2.html' width='1000' height='750' frameborder='0'></iframe>
+<iframe src='http://kritisen.com/indian-cricketer-origins/barchart2.html' frameborder='0'></iframe>
 
 (`N` is the number of unique cricketers birthplaces in each category)
 
@@ -67,7 +67,11 @@ The map also shows that there is a huge cluster in and around Delhi - almost as 
 
 We can then clearly distinguish the players in that cluster, `*` of whom were from Delhi, and `*` were from nearby medium or large sized cities (including the stalwart Suresh Raina, `*` ODI caps, Birthplace : Muradnagar, UP).
 
-<iframe src='http://kritisen.com/indian-cricketer-origins/delhi.html' width='1000' height='750' frameborder='0'></iframe>
+<iframe src='http://kritisen.com/indian-cricketer-origins/delhi.html' width='500' height='375' frameborder='0'></iframe>
+
+Similarly, we show a zoomed in map around Chennai and Bangalore.
+
+<iframe src='http://kritisen.com/indian-cricketer-origins/delhi.html' width='500' height='475' frameborder='0'></iframe>
 
 ## Conclusions (if any?)
 

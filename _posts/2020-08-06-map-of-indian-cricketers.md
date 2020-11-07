@@ -5,7 +5,7 @@ title: Viz. for the "Smaller City Better Health" Hypothesis
 ---
 
 Graphs and plots for the Medium post: 
-https://kritisen.medium.com/the-smaller-city-better-health-hypothesis-8768dd1528d9
+[https://kritisen.medium.com/the-smaller-city-better-health-hypothesis-8768dd1528d9](https://kritisen.medium.com/the-smaller-city-better-health-hypothesis-8768dd1528d9)
 
 
 ### Cricketers Origin by city Category

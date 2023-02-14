@@ -49,8 +49,3 @@ In certain aspects, women may face more problems than men when it comes to retur
 - Telephonic interview: http://keralaplacements.blogspot.com/2010/06/telephonic-interview.html
 -   Road junction: http://trifter.com/practical-travel/adventure-travel/some-complicated-road-junctions/
 -   American passport: http://www.elliott.org/blog/heres-the-real-reason-so-few-americans-have-passports/
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDQ5OTE3OSwyMDg4Njc3NywxOTU3ND
-c4NDEyXX0=
--->

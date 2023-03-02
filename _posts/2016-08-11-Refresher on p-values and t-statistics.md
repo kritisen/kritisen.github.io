@@ -4,11 +4,8 @@ title: Refresher on p-values and t-statistics
 published: true
 ---
 
-**
 
 # Refresher on p-values and t-statistics
-
-**
 
 <p>Had to revisit p-values after a long time this week. </p>
 <p>I realized that it is essential to understand the t-distribution first before going on to p-value calculation. </p>

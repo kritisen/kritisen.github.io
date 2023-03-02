@@ -4,9 +4,7 @@ title: Problems in Returing to India
 published: true
 ---
 
-# Problems in Returning to India
-
-Previously, [we listed a number of reasons which motivate Indians to return to India](http://return2india.kreativlabs.com/2012/02/25/why-return-to-india/ "Why return to India?"). Some of the motivating reasons are: (1) patriotic feeling, (2) family ties, (3) Indian traditions, etc. Yet there are a large number of people who feel strongly about returning to India, but cannot take the first step towards returning. In this article, we wanted to enlist some of the reasons which demotivates someone from returning to India. Again we ended up talking to a number of people who have made, or are about to make, the transition from abroad (USA, Europe, etc.) to India, and others who were keen initially but later decided not to return.
+Previously, [we listed a number of reasons which motivate Indians to return to India](http://kritisen.com/2018-09-09-why-return-to-india/). Some of the motivating reasons are: (1) patriotic feeling, (2) family ties, (3) Indian traditions, etc. Yet there are a large number of people who feel strongly about returning to India, but cannot take the first step towards returning. In this article, we wanted to enlist some of the reasons which demotivates someone from returning to India. Again we ended up talking to a number of people who have made, or are about to make, the transition from abroad (USA, Europe, etc.) to India, and others who were keen initially but later decided not to return.
 
 ## 1. Lack of Professionalism in India --- the 'Sarkari naukri' effect
 ![lazy-worker-coloring-page](https://raw.githubusercontent.com/ksens/ksens.github.io/2bad78386de952c9d4321bdeaad533228525201e/img/lazy-worker-coloring-page-300x287.jpg) 

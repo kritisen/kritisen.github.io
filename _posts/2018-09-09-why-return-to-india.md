@@ -4,8 +4,6 @@ title: Why return to India?
 published: true
 ---
 
-# Why return to India?
-
 For people currently staying abroad e.g. in USA, Europe, Australia, there are 2 types of people: (1) people who are keen on settling down abroad, and (2) people who are keen to settle down in India. People who are keen on settling down abroad may be motivated by certain 'clear' benefits e.g. better job/business opportunities, better infrastructure and services, higher standard of living, etc. On the other hand, the people who are staying abroad and desire to return to India of their own will (i.e. excluding the people who desire to return because they did not get a job abroad etc.) are motivated by more complex factors. This article lists some of those factors, with insights from people who have already completed/are contemplating the transition.
 
 ## 1. Patriotism --- the 'Manoj Kumar' effect

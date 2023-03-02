@@ -1,4 +1,10 @@
-﻿**
+---
+layout: post
+title: Refresher on p-values and t-statistics
+published: true
+---
+
+**
 
 # Refresher on p-values and t-statistics
 

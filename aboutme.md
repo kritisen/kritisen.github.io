@@ -8,4 +8,4 @@ My professional details are available at [my LinkedIn profile](http://linkedin.c
 
 I blog about unconventional careers at [GoHatke.com](http://gohatke.com/).
 
-I also blog about various topics (including big-data, etymology and x-ray imaging) at [this site](http://ksens.github.io).
+I also blog about various topics under the sun at [this site](http://ksens.github.io).

@@ -1,8 +1,8 @@
-
-layout	title	published
-post
-Refresher on p-values and t-statistics
-true
+---
+layout: post
+title: Refresher on p-values and t-statistics
+published: true
+---
 
 **
 

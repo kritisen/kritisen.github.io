@@ -1,4 +1,10 @@
-﻿## Lessons from startup founders
+---
+layout: post
+title: Lessons from startup founders
+published: true
+---
+
+## Lessons from startup founders
 
 Yesterday, my company [Paradigm4](http://paradigm4.com) was featured under the NewSQL banner in Matt Turck's blog post about [the big-data landscape in 2016](http://mattturck.com/2016/02/01/big-data-landscape/).
 

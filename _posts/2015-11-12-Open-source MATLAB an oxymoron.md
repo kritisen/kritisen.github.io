@@ -1,4 +1,10 @@
-﻿## Open-source MATLAB an oxymoron
+---
+layout: post
+title: Open-source MATLAB an oxymoron
+published: true
+---
+
+## Open-source MATLAB an oxymoron
 
 ![oxymoron](https://raw.githubusercontent.com/ksens/ksens.github.io/master/img/oxymoron.jpg)
 

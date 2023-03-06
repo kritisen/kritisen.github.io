@@ -1,4 +1,8 @@
-﻿
+---
+layout: post
+title: Compared to Australia, USA is a dump
+published: true
+---
 
 ## Compared to Australia, USA is a dump
 

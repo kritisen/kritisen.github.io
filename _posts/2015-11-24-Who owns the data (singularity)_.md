@@ -1,4 +1,10 @@
-﻿## Who owns the data (singularity)?
+---
+layout: post
+title: Who owns the data (singularity)?
+published: true
+---
+
+## Who owns the data (singularity)?
 
 Interested to know what folks more knowledgeable about bio think about this:  
 [http://www.fiercebigdata.com/story/new-aws-public-data-sets-and-rise-data-singularity/2015-11-23](http://www.fiercebigdata.com/story/new-aws-public-data-sets-and-rise-data-singularity/2015-11-23)

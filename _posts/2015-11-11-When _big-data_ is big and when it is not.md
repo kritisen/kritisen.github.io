@@ -1,4 +1,10 @@
-﻿## When "big-data" is big and when it is not
+---
+layout: post
+title: When "big-data" is big and when it is not
+published: true
+---
+
+## When "big-data" is big and when it is not
 
 A few months back, [my company's](http://paradigm4.com) Chief Data Scientist [Bryan Lewis](http://illposed.net/) gave a talk at the Boston R Users Group.
 

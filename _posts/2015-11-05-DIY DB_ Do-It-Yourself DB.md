@@ -1,4 +1,10 @@
-﻿## DIY DB: Do-It-Yourself DB
+---
+layout: post
+title: DIY DB: Do-It-Yourself DB
+published: true
+---
+
+## DIY DB: Do-It-Yourself DB
 
 DIY DB (do-it-yourself database) seems to be a recurrent theme in the database industry.
 

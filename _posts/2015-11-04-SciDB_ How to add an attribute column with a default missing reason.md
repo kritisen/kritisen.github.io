@@ -1,4 +1,10 @@
-﻿## SciDB: How to add an attribute column with a default missing reason
+---
+layout: post
+title: SciDB: How to add an attribute column with a default missing reason
+published: true
+---
+
+## SciDB: How to add an attribute column with a default missing reason
 
 Here's the content of the original array:  
 `iquery -aq "scan(A)" | head  

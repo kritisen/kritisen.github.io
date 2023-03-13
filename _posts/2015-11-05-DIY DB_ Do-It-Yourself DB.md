@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DIY DB: Do-It-Yourself DB
+title: DIY DB Do-It-Yourself DB
 published: true
 ---
 

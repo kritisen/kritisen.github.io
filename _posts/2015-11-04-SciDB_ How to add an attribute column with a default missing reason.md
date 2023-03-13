@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SciDB: How to add an attribute column with a default missing reason
+title: SciDB; How to add an attribute column with a default missing reason
 published: true
 ---
 

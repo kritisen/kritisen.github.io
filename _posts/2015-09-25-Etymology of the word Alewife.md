@@ -1,4 +1,10 @@
-﻿## Etymology of the word Alewife
+---
+layout: post
+title: Etymology of the word Alewife
+published: true
+---
+
+## Etymology of the word Alewife
 
 Alewife is an important station in the Boston metro network (the MBTA).
 

@@ -1,4 +1,10 @@
-﻿## iPython notebook clashing with Chrome Vimium
+---
+layout: post
+title: iPython notebook clashing with Chrome Vimium
+published: true
+---
+
+## iPython notebook clashing with Chrome Vimium
 
 I started using [iPython Notebook](http://ipython.org/notebook.html) from Chrome at port http://localhost:8890/ and found that the keyboard shortcuts were not working.
 

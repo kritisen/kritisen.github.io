@@ -46,5 +46,5 @@ iquery -aq "apply(A, b, iif(true, double(missing(1)), double(null)))" | head
 {Symbol_index,timestamp} a1,a2,a3,b  
 {1,615} 1,null,null,?1  
 {1,1420} 1,null,null,?1  
-{1,17365} 1,null,null,?1`
+{1,17365} 1,null,null,?1
 ```

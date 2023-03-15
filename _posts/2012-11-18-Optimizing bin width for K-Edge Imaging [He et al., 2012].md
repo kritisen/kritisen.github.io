@@ -10,7 +10,7 @@ _[Citation:]_ He, Peng, Biao Wei, Wenxiang Cong, and Ge Wang. “Optimization of
 
 Peng He was a visiting scholar at my lab. While I was familiar with his work on the MARS-CT scanner, I did not know the details of the work he did on optimizing K-edge imaging. So I undertook a detailed study of this paper, which describes his work on this topic.
 
-      -------------------------------------------------More-------------------------------------------------------------
+      --------------------------------------------More---------------------------------------------------
 
 In spectral CT, projection images are acquired at different energies. The main motivation is to harness the K-edge property of materials, by which:
 

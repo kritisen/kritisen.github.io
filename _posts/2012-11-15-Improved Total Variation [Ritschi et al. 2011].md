@@ -11,7 +11,7 @@ _[CITATION:]_ Ritschl, Ludwig, Frank Bergner, Christof Fleischmann, and Marc Kac
 
 This paper had been on my 'Must-Read' list for several months. I finally went through it yesterday, and realized that the method devised by the authors is very smart.
 
-    ---------------------------------------More----------------------------------------------------
+    -----------------------------------More-------------------------------------------
 
 The SART-TV algorithm consists of alternating SART and TV steps:
 

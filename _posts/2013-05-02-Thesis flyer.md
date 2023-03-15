@@ -10,9 +10,9 @@ published: true
 
 CT stands for computed tomography. A clinical CT scanner is shown in Fig. A. Figure B shows the working principle, by which x-ray beams pass through the body to be detected as projections. A set of projections across various angles forms a tomography (or a sinogram). Figure C shows a very simplistic image reconstruction problem where the measured projection data: {7,2,5,4}, and the unknowns { x1, x2, x3, x4} obey the following:
 
-                                               x1 + x2 = 5,
+                                            x1 + x2 = 5,
 
-                                         x1 + x3 = 7, … and so on.
+                                      x1 + x3 = 7, … and so on.
 
 This reconstruction problem can be resolved by simply solving a set of simultaneous equations. Unfortunately, the most common scenarios involve 106 unknowns and a greater number of measurements! More complicated reconstruction algorithms have to be used (the most common being filtered back projection or FBP).
 

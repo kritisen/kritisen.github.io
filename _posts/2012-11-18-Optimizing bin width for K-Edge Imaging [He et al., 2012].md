@@ -1,4 +1,10 @@
-﻿## Optimizing bin width for K-Edge Imaging [He et al., 2012]
+---
+layout: post
+title: Optimizing bin width for K-Edge Imaging [He et al., 2012]
+published: true
+---
+
+## Optimizing bin width for K-Edge Imaging [He et al., 2012]
 
 _[Citation:]_ He, Peng, Biao Wei, Wenxiang Cong, and Ge Wang. “Optimization of K-edge Imaging with Spectral CT.” _Medical Physics_ 39, no. 11 (2012): 6572. [http://link.aip.org/link/MPHYA6/v39/i11/p6572/s1&Agg=doi](http://link.aip.org/link/MPHYA6/v39/i11/p6572/s1&Agg=doi)
 

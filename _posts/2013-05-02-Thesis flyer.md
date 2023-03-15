@@ -1,4 +1,10 @@
-﻿## Thesis flyer
+---
+layout: post
+title: Thesis flyer
+published: true
+---
+
+## Thesis flyer
 
 **What is CT?**
 

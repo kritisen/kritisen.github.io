@@ -1,8 +1,17 @@
-﻿## Improved Total Variation [Ritschi et al. 2011]
+---
+layout: post
+title: Improved Total Variation [Ritschi et al. 2011]
+published: true
+---
+
+
+## Improved Total Variation [Ritschi et al. 2011]
 
 _[CITATION:]_ Ritschl, Ludwig, Frank Bergner, Christof Fleischmann, and Marc Kachelriess. “Improved Total Variation-based CT Image Reconstruction Applied to Clinical Data.” _Physics in Medicine and Biology_ 56, no. 6 (March 21, 2011): 1545–61. [http://www.ncbi.nlm.nih.gov/pubmed/21325707](http://www.ncbi.nlm.nih.gov/pubmed/21325707).
 
 This paper had been on my 'Must-Read' list for several months. I finally went through it yesterday, and realized that the method devised by the authors is very smart.
+
+------------------------------------------------------------More-----------------------------------------------------------------------------------
 
 The SART-TV algorithm consists of alternating SART and TV steps:
 

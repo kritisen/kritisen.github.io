@@ -1,4 +1,10 @@
-﻿## Filename Handling in MFC
+---
+layout: post
+title: Filename Handling in MFC
+published: true
+---
+
+## Filename Handling in MFC
 
 Recently I was doing programming on MFC (Visual C++) and faced the need to do the following:
 

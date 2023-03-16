@@ -1,4 +1,10 @@
-﻿## Cycling Through Tabs in MATLAB Text-Editor on Mac
+---
+layout: post
+title: Cycling Through Tabs in MATLAB Text-Editor on Mac
+published: true
+---
+
+## Cycling Through Tabs in MATLAB Text-Editor on Mac
 
 Have a lot of .m files opened in your MATLAB Editor, and need to cycle through them quickly using your keyboard?
 

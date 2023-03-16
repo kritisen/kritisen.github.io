@@ -1,4 +1,10 @@
-﻿## Medical Image Reconstruction: A Conceptual Tutorial - Gengsheng Zeng
+---
+layout: post
+title: Medical Image Reconstruction: A Conceptual Tutorial - Gengsheng Zeng
+published: true
+---
+
+## Medical Image Reconstruction: A Conceptual Tutorial - Gengsheng Zeng
 
 I chanced upon this book yesterday while searching for "parallel beam to fan beam conversion" and have become a fan of this book already.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation - Deblurring in CT
+title: Presentation Deblurring in CT
 published: true
 ---
 

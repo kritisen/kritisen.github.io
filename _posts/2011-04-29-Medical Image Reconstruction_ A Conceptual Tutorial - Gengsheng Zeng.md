@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Medical Image Reconstruction: A Conceptual Tutorial - Gengsheng Zeng
+title: Medical Image Reconstruction; A Conceptual Tutorial - Gengsheng Zeng
 published: true
 ---
 

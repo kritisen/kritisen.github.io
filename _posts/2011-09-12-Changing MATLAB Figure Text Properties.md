@@ -1,4 +1,10 @@
-﻿## Changing MATLAB Figure Text Properties
+---
+layout: post
+title: Changing MATLAB Figure Text Properties
+published: true
+---
+
+## Changing MATLAB Figure Text Properties
 
 Need to change the fontsize in a figure? Here's a link which lists many properties which can be defined in the code.
 

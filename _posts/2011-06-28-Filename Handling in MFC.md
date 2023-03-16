@@ -22,10 +22,7 @@ to be automatically generated.
 
 I looked around for a while and found that MFC provides a lot of functions for getting file extensions from a string, for getting folder path from string etc. So I combined these and found that the following bit of code worked absolutely fine to generate my required string.
 
-``char * file = _strdup(m_strIn)
-
+`char * file = _strdup(m_strIn)
 PathRemoveExtension(file)
-
 CString ext = PathFindExtension(m_ImgFileNameValue)
-
-m_strOut.Format("%s_Filt%s", file, ext)``
+m_strOut.Format("%s_Filt%s", file, ext)`

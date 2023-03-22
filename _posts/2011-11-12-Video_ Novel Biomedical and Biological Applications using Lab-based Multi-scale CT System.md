@@ -6,7 +6,7 @@ published: true
 
 ## Video: Novel Biomedical and Biological Applications using Lab-based Multi-scale CT System
 
-![Novel Biomedical and Biological Applications using Lab-based Multi-scale CT System](https://github.com/ksens/ksens.github.io/blob/master/img/aede29bf-c83f-468b-88cb-f2d2503f79e4.jpg?raw=true) [Novel Biomedical and Biological Applications using Lab-based Multi-scale CT System on Vimeo](https://vimeo.com/32012546?embedded=true&source=video_title&owner=7801532)
+[![Watch the video](https://github.com/ksens/ksens.github.io/blob/master/img/aede29bf-c83f-468b-88cb-f2d2503f79e4.jpg?raw=true)](https://vimeo.com/32012546?embedded=true&source=video_title&owner=7801532)
 
 Presented at: _Annual Meeting of the Biomedical Engineering Society_, Hartford, CT, Oct. 2011
 

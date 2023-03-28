@@ -12,4 +12,6 @@ Need to change the fontsize in a figure? Here's a link which lists many properti
 
 e.g. to change the fontsize in the figure title, use:
 
-`title('Truncated sinogram', 'FontSize', 15)`
+```
+title('Truncated sinogram', 'FontSize', 15)
+```

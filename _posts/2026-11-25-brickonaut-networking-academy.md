@@ -20,6 +20,8 @@ There's plenty of good documentation. But knowing networking is different from r
 5. **Asteroid Belt:** Private Link, network connectivity configurations, serverless egress control
 6. **Deep Space:** boss scenarios where you find the broken hop in a real architecture
 
+![The galaxy map: six worlds from Launch Pad to Deep Space, with the Databricks worlds marked](/img/brickonaut/galaxy-map.jpg)
+
 ## What's inside
 
 - **114 questions:** multiple choice, subnet calculations, putting steps in order, and clicking the faulty part of a diagram. Every Databricks question links to the docs page it's based on.
@@ -27,6 +29,8 @@ There's plenty of good documentation. But knowing networking is different from r
 - **10 Journeys:** animated walkthroughs of how things work, such as a DNS lookup, the TLS handshake, starting a classic cluster, front-end vs. back-end Private Link, and serverless egress.
 - **Repair Bay:** questions you miss come back on a spaced-repetition schedule. The **Captain's Log** tracks your accuracy by topic, so you can see where you're weak.
 - **Ship, music, phones:** your ship takes damage when you get answers wrong and gets repaired as you learn. There's an ambient soundtrack, and it works on your phone.
+
+![A Journey: an animated, step-by-step walkthrough of how traffic actually moves](/img/brickonaut/journey.jpg)
 
 👉 **Play it here:** [kritisen.github.io/brickonaut-networking-academy](https://kritisen.github.io/brickonaut-networking-academy/)
 

@@ -3,6 +3,8 @@ layout: post
 published: true
 title: "Brickonaut Networking Academy: a space-themed simulator for practising Databricks networking"
 subtitle: From network basics to boss level on Databricks networking
+meta-description: "A free, space-themed game that takes you from networking basics to boss-level Databricks networking: 114 questions, 10 animated Journeys, and a Repair Bay for what you miss."
+share-img: https://kritisen.github.io/brickonaut-networking-academy/screenshots/social-preview.png
 ---
 
 In my first year at Databricks, I've helped many customers through their Databricks onboarding. Some of the most important conversations are about networking: securing how users reach Databricks, keeping compute traffic private, restricting what can leave the network, and making it all work across AWS and Azure.
